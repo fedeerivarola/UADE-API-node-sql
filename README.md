@@ -1,5 +1,7 @@
 # api-node-sql
-backend para api, con node y sql
+
+Hago este aporte para que puedan ver y usar como ejemplo como hacer un backend para la materia Aplicaciones Interactivas de UADE con node y sql.
+
 Con esta aplicacion podrán facilmente levantar un servicio con node que responde a peticiones http.
 A partir de dichas peticiones pueden realizar la consulta que requieran a la base de datos sql.
 
